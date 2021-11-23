@@ -1,0 +1,6 @@
+Simple Array Sum
+Compare the Triplets
+A very Big sum
+Diagonal Difference
+Plus minus
+Mini-Max Sum
